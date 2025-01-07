@@ -20,7 +20,7 @@ For training the model, we used the PlantVillage dataset, which contains a large
 # Website Deployed Images
 ### Main Page
 
-![Website Image](Website%20Image/Image_1.png)
+![Website Image](Website%20Image/Image_7.jpeg)
 ![Website Image](Website%20Image/Image_2.png)
 ![Website Image](Website%20Image/Image_3.png)
 ![Website Image](Website%20Image/Image_4.png)
